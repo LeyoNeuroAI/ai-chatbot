@@ -1,10 +1,10 @@
 <a href="https://velonova.ai">
   <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
-  <h1 align="center">Neurosecure Admin and Billing dashboard for  AI Chatbot</h1>
+  <h1 align="center">LLMAdmin</h1>
 </a>
 
 <p align="center">
-  An Open-Source  Admin Dashboard and Stripe Billing for AI Assistants Template Built With Next.js and the AI SDK by Vercel.
+  An Open-Source LLM Admin Dashboard for creating and managing LLM's With Next.js and the AI SDK by Vercel.
 </p>
 
 <p align="center">
